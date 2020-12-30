@@ -1,0 +1,76 @@
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral\File Admiral\bin\Debug\File Admiral.exe.config
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral\File Admiral\bin\Debug\File Admiral.exe
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral\File Admiral\bin\Debug\File Admiral.pdb
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral\File Admiral\obj\Debug\File Admiral.csprojResolveAssemblyReference.cache
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral\File Admiral\obj\Debug\File_Admiral.Form1.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral\File Admiral\obj\Debug\File_Admiral.Properties.Resources.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral\File Admiral\obj\Debug\File Admiral.csproj.GenerateResource.Cache
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral\File Admiral\obj\Debug\File Admiral.exe
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral\File Admiral\obj\Debug\File Admiral.pdb
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral\File Admiral\obj\Debug\File_Admiral.Form2.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\bin\Debug\File Admiral.exe.config
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\obj\Debug\File Admiral.exe
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\obj\Debug\File Admiral.pdb
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\obj\Debug\File Admiral.csprojResolveAssemblyReference.cache
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\obj\Debug\File_Admiral.E1.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\obj\Debug\File_Admiral.E2.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\obj\Debug\File_Admiral.Edytor.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\obj\Debug\File_Admiral.Form1.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\obj\Debug\File_Admiral.Form2.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\obj\Debug\File_Admiral.Properties.Resources.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\obj\Debug\File Admiral.csproj.GenerateResource.Cache
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\bin\Debug\File Admiral.exe
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral — kopia\File Admiral\bin\Debug\File Admiral.pdb
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\bin\Debug\File Admiral.exe.config
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\obj\Debug\File Admiral.exe
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\obj\Debug\File Admiral.pdb
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\bin\Debug\File Admiral.exe
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\bin\Debug\File Admiral.pdb
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\obj\Debug\File Admiral.csprojResolveAssemblyReference.cache
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\obj\Debug\File_Admiral.E1.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\obj\Debug\File_Admiral.E2.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\obj\Debug\File_Admiral.Edytor.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\obj\Debug\File_Admiral.Form1.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\obj\Debug\File_Admiral.Form2.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\obj\Debug\File_Admiral.Properties.Resources.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje\File Admiral\obj\Debug\File Admiral.csproj.GenerateResource.Cache
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\bin\Debug\File Admiral.exe.config
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\obj\Debug\File Admiral.exe
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\obj\Debug\File Admiral.pdb
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\bin\Debug\File Admiral.exe
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\bin\Debug\File Admiral.pdb
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\obj\Debug\File Admiral.csprojResolveAssemblyReference.cache
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\obj\Debug\File_Admiral.E1.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\obj\Debug\File_Admiral.E2.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\obj\Debug\File_Admiral.Edytor.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\obj\Debug\File_Admiral.Form1.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\obj\Debug\File_Admiral.Form2.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\obj\Debug\File_Admiral.Properties.Resources.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\File Admiral  na niej pracuje — kopia\File Admiral\obj\Debug\File Admiral.csproj.GenerateResource.Cache
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\bin\Debug\File Admiral.exe.config
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File Admiral.exe
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File Admiral.pdb
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\bin\Debug\File Admiral.exe
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\bin\Debug\File Admiral.pdb
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File Admiral.csprojResolveAssemblyReference.cache
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.E1.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.E2.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.Edytor.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.Form1.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.Form2.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.Properties.Resources.resources
+E:\OneDrive\IV Semestr\NET (Virtual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File Admiral.csproj.GenerateResource.Cache
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\bin\Debug\File Admiral.exe.config
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\bin\Debug\File Admiral.exe
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\bin\Debug\File Admiral.pdb
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File Admiral.csprojAssemblyReference.cache
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.E1.resources
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.E2.resources
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.Edytor.resources
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.Form1.resources
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.Form2.resources
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File_Admiral.Properties.Resources.resources
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File Admiral.csproj.GenerateResource.cache
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File Admiral.csproj.CoreCompileInputs.cache
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File Admiral.exe
+D:\Studia\IV Semestr\NET (Visual Studio-C#)\Laboratoria\L6\1\File Admiral\obj\Debug\File Admiral.pdb
